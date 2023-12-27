@@ -1,0 +1,29 @@
+#EXTM3U
+#EXTINF:-1 group-title="XXX" tvg-logo="https://i.imgur.com/W9x8sNg.png",Jenny For You (720p)
+https://59ec5453559f0.streamlock.net/JennyForYou/smil:WEB3131/playlist.m3u8
+#EXTINF:-1 group-title="XXX" tvg-logo="https://i.imgur.com/esK4CBZ.png",MiamiTV (1080p)
+https://59ec5453559f0.streamlock.net/miamitv/smil:WEB3131/playlist.m3u8
+#EXTINF:-1 group-title="XXX" tvg-logo="https://i.imgur.com/q70o86Q.png",MiamiTV Latino (1080p)
+https://59ec5453559f0.streamlock.net/Latino/smil:WEB3131/playlist.m3u8
+#EXTINF:-1 group-title="XXX" tvg-logo="https://i.imgur.com/sli5irt.png",MyCamTV Arab (720p)
+http://live.mycamtv.com/arab.m3u8
+#EXTINF:-1 group-title="XXX" tvg-logo="https://i.imgur.com/sli5irt.png",MyCamTV Blowjob (720p)
+http://live.mycamtv.com/blowjob.m3u8
+#EXTINF:-1 group-title="XXX" tvg-logo="https://i.imgur.com/sli5irt.png",MyCamTV Medium (720p)
+http://live.mycamtv.com/medium.m3u8
+#EXTINF:-1 group-title="XXX" tvg-logo="https://i.imgur.com/sli5irt.png",MyCamTV MILF (720p)
+http://live.mycamtv.com/milf.m3u8
+#EXTINF:-1 group-title="XXX" tvg-logo="https://i.imgur.com/sli5irt.png",MyCamTV Teen (720p)
+http://live.mycamtv.com/teen.m3u8
+#EXTINF:-1 group-title="XXX" tvg-logo="https://i.imgur.com/sli5irt.png",MyCamTV Young (720p)
+http://live.mycamtv.com/young.m3u8
+#EXTINF:-1 group-title="XXX" tvg-logo="https://i.imgur.com/6aOmZs4.png",O-la-la! (576p)
+http://31.148.48.15/O-la-la/index.m3u8
+#EXTINF:-1 group-title="XXX" tvg-logo="https://i.imgur.com/0JufwBJ.png",Penthouse Gold (1080p)
+http://51.159.102.100/PenthouseGold/index.m3u8
+#EXTINF:-1 group-title="XXX" tvg-logo="https://i.imgur.com/B3DMUM9.png",Playboy TV Latin America (1080p)
+http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
+#EXTINF:-1 group-title="XXX" tvg-logo="https://i.imgur.com/o4fZU2M.png",SunBeach TV (1080p)
+https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexico/playlist.m3u8
+#EXTINF:-1 group-title="XXX" tvg-logo="https://i.imgur.com/avtSqUu.png",Visit-X TV (720p)
+https://stream.visit-x.tv/vxtv/live/playlist.m3u8
